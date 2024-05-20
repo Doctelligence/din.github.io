@@ -3,14 +3,14 @@ permalink: pretty
 title: 'doctelligence'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/logo2.png"
+  mobile_height: "98px"  # Slightly larger as requested
+  mobile_width: "98px"   # Width matches height for uniformity
+  desktop: "images/logo/logo2.png"
+  desktop_height: "35px"  # Slightly larger as requested
+  desktop_width: "134px"  # Proportionally larger
 
-home: 
+home:
   limit_services: 6
 
 collections:
