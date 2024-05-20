@@ -5,8 +5,6 @@ description: About Doctelligence (Labs)
 bodyClass: page-about
 ---
 
-# About Us
-
 Doctelligence (Labs) is at the forefront of integrating artificial intelligence into public healthcare systems. Our mission is to develop standardized, safe, and reliable AI frameworks that revolutionize healthcare practices and improve patient outcomes.
 
 ## Our Mission
