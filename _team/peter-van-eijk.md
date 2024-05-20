@@ -1,13 +1,15 @@
 ---
-title: "Peter Van Eijk"
+title: "Dr. Abraham Nash"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+image: "images/team/.jpg"
+jobtitle: "Founder"
+linkedinurl: "https://www.linkedin.com/in/abraham-nash-866502270/"
 promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dr. Abraham Nash is the Founder of Doctelligence and a PhD candidate in Computer Science at the University of Oxford, specializing in Human-Centred Computing. His academic work involves developing design principles for health data systems to effectively utilize health data for AI applications, tackling key challenges in service delivery.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With a background as a medical doctor and a Master’s in Translational Biomedical Research from the University of Cambridge, Dr. Nash combines his clinical expertise with advanced AI and ML technologies to innovate healthcare solutions. At Doctelligence, he leads efforts to create safe and reliable AI frameworks that standardize the integration of AI into public healthcare practices, focusing on enhancing diagnostic and therapeutic efficiencies.
+
+Dr. Nash's practical experience includes his time as a Junior Doctor in the NHS, where he gained valuable insights into the medical field, which now inform his approach to AI-driven healthcare improvements. His leadership at Doctelligence aims to bridge the gap between complex AI technologies and everyday clinical applications, ensuring that healthcare providers can deliver superior care with improved outcomes.
