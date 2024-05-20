@@ -4,7 +4,7 @@ date: 2018-11-18T12:37:00+10:00
 weight: 3
 ---
 
-## Data Management
+## Efficient preprocessing and handling.
 
 Effective **Data Management** is pivotal for the successful implementation of AI in healthcare. Doctelligence (Labs) offers comprehensive services to ensure your data is primed for AI applications:
 
