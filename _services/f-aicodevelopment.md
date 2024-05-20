@@ -4,7 +4,7 @@ date: 2018-11-18T12:43:00+10:00
 weight: 6
 ---
 
-## Co-Development
+## Collaborative tool innovation.
 
 **Co-Development** at Doctelligence (Labs) involves partnering with NHS teams to innovate and create bespoke AI-driven tools tailored to specific healthcare challenges. This service includes:
 
