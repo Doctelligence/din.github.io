@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-## AI Development
+## Tailored AI framework creation.
 
 At Doctelligence (Labs), we specialize in the **collaborative development** of tailor-made AI frameworks that are designed to integrate seamlessly into public healthcare systems. Our approach involves:
 
