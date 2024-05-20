@@ -1,7 +1,7 @@
 ---
 title: "Dr. Abraham Nash"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/.jpg"
+image: "images/team/abrahamnash.jpeg"
 jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/in/abraham-nash-866502270/"
 promoted: true
