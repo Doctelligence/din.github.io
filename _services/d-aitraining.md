@@ -4,7 +4,7 @@ date: 2018-11-18T12:39:00+10:00
 weight: 4
 ---
 
-## AI Training
+## Empowerment programs for NHS staff.
 
 **AI Training** at Doctelligence (Labs) focuses on empowering NHS staff to effectively utilize advanced AI tools through comprehensive educational programs. Key features of our service include:
 
