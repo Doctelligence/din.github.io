@@ -4,7 +4,7 @@ date: 2018-11-18T12:41:00+10:00
 weight: 5
 ---
 
-## Maintenance
+## Ongoing AI system support.
 
 **Maintenance** services at Doctelligence (Labs) ensure that AI systems remain efficient and effective within NHS operations. Our maintenance strategy includes:
 
