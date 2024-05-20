@@ -4,11 +4,11 @@ title: 'doctelligence'
 
 logo:
   mobile: "images/logo/logo2.png"
-  mobile_height: "98px"  # Slightly larger as requested
-  mobile_width: "98px"   # Width matches height for uniformity
+  mobile_height: "106px"  # Increased by 20% from 88px
+  mobile_width: "100px"   # Increased by 20% from 83px to better fit the mobile view
   desktop: "images/logo/logo2.png"
-  desktop_height: "35px"  # Slightly larger as requested
-  desktop_width: "134px"  # Proportionally larger
+  desktop_height: "32px"  # Remains unchanged as it's satisfactory
+  desktop_width: "114px"  # Remains unchanged as it's satisfactory
 
 home:
   limit_services: 6
