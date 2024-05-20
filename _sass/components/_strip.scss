@@ -54,3 +54,11 @@
 .strip-bg-cover {
   background-size: cover;
 }
+
+.custom-padding {
+    padding-bottom: 20px !important;  // Reduced bottom padding for less space
+    @media (min-width: 768px) {
+        padding-bottom: 40px !important;  // Adjust for medium screens and up
+    }
+}
+
