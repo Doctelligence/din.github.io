@@ -9,7 +9,7 @@ Our mission is to develop standardized, safe, and reliable AI frameworks that re
 
 ## Our Mission
 
-By developing solutions that standardize the entire lifecycle of AI integration—from problem definition through data collection, preprocessing, development, evaluation, monitoring, and maintenance—we ensure that our technologies enhance healthcare efficiency and safety. Our approach is meticulously designed for NHS stakeholders, promoting best practices in AI integration to provide high-quality and effective patient care.
+By developing solutions that standardize the entire lifecycle of AI integration—from problem definition through data collection, preprocessing, development, evaluation, monitoring, and maintenance—we ensure that our technologies enhance healthcare efficiency and safety.
 
 ## Our Vision
 
