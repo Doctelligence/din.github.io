@@ -8,7 +8,7 @@ promoted: true
 weight: 1
 ---
 
-“I founded Doctelligence because I saw a transformative opportunity at the intersection of technology and healthcare.”
+“I founded Doctelligence because I saw a transformative opportunity at the intersection of healthcare and technology.”
 
 As the sole founder and a PhD candidate in Computer Science at the University of Oxford, specializing in Human-Centred Computing, I specialize in creating effective health data systems for AI applications. These systems address key challenges in healthcare delivery.
 
