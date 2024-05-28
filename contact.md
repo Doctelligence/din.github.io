@@ -22,4 +22,4 @@ England
 | Saturday  | 10:00am - 4:00pm |
 | Sunday    | Closed          |
 
-For immediate assistance during business hours, please call our main line listed above. For other inquiries, feel free to send us an email or fill out the contact form below, and we'll get back to you promptly.
+For immediate assistance during business hours, please call our main line listed above. For other inquiries, feel free to send us an email or fill out the contact form below, and we'll get back to you within 72 hours.
