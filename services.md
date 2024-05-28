@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # Pioneering AI-Driven Healthcare
 
-Doctelligence (Labs) offers comprehensive AI-driven solutions designed to optimize the lifecycle of healthcare services. From initial problem definition to ongoing maintenance, our services cater to the unique demands of NHS stakeholders, ensuring each solution not only meets but exceeds standards of efficiency, safety, and care.
+From initial problem definition to ongoing maintenance, our services cater to the unique demands of NHS stakeholders, ensuring each solution not only meets but exceeds standards of efficiency, safety, and care.
