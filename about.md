@@ -23,6 +23,6 @@ To be the leading provider of AI solutions in healthcare, trusted by public heal
   
 - **Expert Team:** Our team consists of experts in AI, healthcare, and policy-making, working together to deliver solutions that are not only innovative but also practical and sustainable.
 
-Doctelligence Labs is committed to improving healthcare delivery, making it more efficient, effective, and accessible to everyone. 
+By being committed to improving healthcare delivery, we endeavor to make it more efficient, effective, and accessible to everyone.
 
 Join us in advancing the future of healthcare.
