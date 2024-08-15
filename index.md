@@ -1,5 +1,5 @@
 ---
-title: DIN
+title: Doctelligence
 layout: home
 description: 
 intro_image_hide_on_mobile: true
