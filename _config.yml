@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Doctelligence'
+title: 'Doctelligence' 
 
 logo:
   mobile: "images/logo/logo2.png"
