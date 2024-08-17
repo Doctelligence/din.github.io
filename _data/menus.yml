@@ -1,6 +1,6 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "White Paper"
+    url: "/whitepaper/"
     weight: 2
   - name: "Community"
     url: "/community/"
