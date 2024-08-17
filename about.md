@@ -19,4 +19,4 @@ The **Decentralized Health Intelligence Network (DHIN)** is a framework designed
 
 This framework ensures that no entity can prevent or control access to health data for AI training or determine financial rewards. It supports effective AI training while maintaining patient control over their data, providing financial benefits, and contributing to a decentralized, scalable ecosystem. Patients receive rewards in their digital wallets as an incentive to opt-in to the FL protocol, with a long-term vision of funding decentralized insurance solutions. This novel, self-financed healthcare model adapts to individual needs, complements existing systems, and redefines universal coverage.
 
-📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://link-to-whitepaper.com)
+📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://arxiv.org/abs/2408.06240)
