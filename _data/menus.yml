@@ -2,17 +2,17 @@ main:
   - name: "White Paper"
     url: "/whitepaper/"
     weight: 2
-  - name: "Community"
-    url: "/community/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
   - name: "Roadmap"
     url: "/roadmap/"
+    weight: 3
+  - name: "Community"
+    url: "/community/"
+    weight: 4
+  - name: "About"
+    url: "/about/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
     weight: 6
 
 footer:
