@@ -6,6 +6,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Decentralized Intelligence Network (DIN
+# Decentralized Health Intelligence Network (DHIN)
 
 
