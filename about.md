@@ -7,9 +7,10 @@ bodyClass: page-about
 
 # Decentralized Health Intelligence Network (DHIN) White Paper
 
-📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://arxiv.org/abs/2408.06240)
 
 Explore the comprehensive white paper on the **Decentralized Health Intelligence Network (DHIN)**, a theoretical framework addressing significant challenges of health data sovereignty and AI utilization in healthcare.
+
+📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://arxiv.org/abs/2408.06240)
 
 ## DHIN Abstract:
 The **Decentralized Health Intelligence Network (DHIN)** is a framework designed to tackle the issues of data fragmentation across healthcare providers and institutions, which hinder effective AI utilization in healthcare. DHIN establishes a sovereign architecture for healthcare provision, making it a prerequisite for a sovereign health network. This enables effective AI use by overcoming barriers to accessing diverse medical data sources.
