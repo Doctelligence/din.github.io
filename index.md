@@ -7,5 +7,5 @@ show_call_box: true
 ---
 
 # Decentralized Intelligence Network (DIN)
-Unlocking Scalable AI Through Sovereign Data Control and Trustless Rewards
+Unlocking Scalable DecAI Through Sovereign Data Control and Trustless Rewards
 
