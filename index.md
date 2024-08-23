@@ -6,7 +6,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Doctelligence
-Public goods healthcare system
-
+# Decentralized Intelligence Network (DIN)
+Unlocking Scalable AI Through Sovereign Data Control and Trustless Rewards
 
