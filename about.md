@@ -1,25 +1,22 @@
----
-title: About
-layout: page
-description: 
-bodyClass: page-about
----
+# Welcome to the Decentralized Intelligence Network (DIN) 🚀
 
-# Decentralized Health Intelligence Network (DHIN) White Paper
+The Decentralized Intelligence Network (DIN) is an ambitious initiative dedicated to creating a self-sovereign ecosystem that transcends sectors. Our mission is to empower individuals and organizations through data sovereignty, scalable AI, and decentralized technologies, driving innovation and accessibility across various industries.
 
+## What We Do at DIN:
+- 🛡️ **Create a self-sovereign, decentralized network** that fosters trust and autonomy across different sectors.
+- 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
+- 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, thereby fueling innovation and equity in various fields.
 
-Explore the comprehensive white paper on the **Decentralized Health Intelligence Network (DHIN)**, a theoretical framework addressing significant challenges of health data sovereignty and AI utilization in healthcare.
+DIN is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. Our efforts support the advancement of digital technologies and their applications across diverse sectors, ensuring accessibility, equity, and innovation.
 
-📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://arxiv.org/abs/2408.06240)
+## Origins and Vision:
+The Decentralized Intelligence Network (DIN) framework is the foundation for cross-sector applications, born from pioneering research in decentralized and privacy-preserving technologies. DIN works were showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. Explore our papers here:
 
-## DHIN Abstract:
-The **Decentralized Health Intelligence Network (DHIN)** is a framework designed to tackle the issues of data fragmentation across healthcare providers and institutions, which hinder effective AI utilization in healthcare. DHIN establishes a sovereign architecture for healthcare provision, making it a prerequisite for a sovereign health network. This enables effective AI use by overcoming barriers to accessing diverse medical data sources.
+- **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**
 
-### Key Components:
-1. **Self-Sovereign Identity Architecture**: Coupled with a personal health record (PHR) to establish health data sovereignty.
-2. **Scalable Federated Learning (FL) Protocol**: Implemented on a public blockchain for decentralized AI training in healthcare, where health data remains with participants, sharing only model parameter updates.
-3. **Scalable, Trustless Rewards Mechanism**: Incentivizes participation and ensures fair reward distribution without third-party interference.
+## Get Involved:
+Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at DIN.
 
-This framework ensures that no entity can prevent or control access to health data for AI training or determine financial rewards. It supports effective AI training while maintaining patient control over their data, providing financial benefits, and contributing to a decentralized, scalable ecosystem. Patients receive rewards in their digital wallets as an incentive to opt-in to the FL protocol, with a long-term vision of funding decentralized insurance solutions. This novel, self-financed healthcare model adapts to individual needs, complements existing systems, and redefines universal coverage.
-
-📄 **Read the full white paper here:** [Decentralized Health Intelligence Network (DHIN) White Paper](https://arxiv.org/abs/2408.06240)
+- **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](#).
+- **Engage:** Discover how you can be part of this transformative journey on our [LinkedIn](#) and [website](#).
+- **Connect:** Reach out to us at [support@din.com](mailto:support@din.com) to learn more or discuss collaboration.
