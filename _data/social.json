@@ -1,12 +1,12 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/decentralizedintelligencenetwork",
+    "link": "https://github.com/doctelligence",
     "image": "images/social/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/din",
+    "link": "https://twitter.com/doctelligence",
     "image": "images/social/twitter.svg"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
       "name": "Email",
-      "link": "mailto:support@din.com ",
+      "link": "mailto:support@doctelligence.com ",
       "image": "images/social/email.svg"
   },
   {
