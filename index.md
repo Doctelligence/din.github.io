@@ -7,4 +7,3 @@ show_call_box: true
 ---
 
 # Doctelligence
-A Self-Financing Public Goods Healthcare Ecosystem
