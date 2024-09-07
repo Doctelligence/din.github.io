@@ -3,4 +3,4 @@ title: White Paper
 layout: page
 description: White Paper
 ---
-# Coming Soon
+# Coming Soon...
