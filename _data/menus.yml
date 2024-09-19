@@ -5,8 +5,8 @@ main:
   - name: "Roadmap"
     url: "/roadmap/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Network"
+    url: "/network/"
     weight: 3
   - name: "Community"
     url: "/community/"
