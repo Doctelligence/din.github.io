@@ -1,9 +1,9 @@
 ---
-title: Network
+title: Services
 layout: services
 description: 
 intro_image_hide_on_mobile: true
 ---
 
-# Network
+# Services
 Coming Soon...
