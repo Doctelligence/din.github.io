@@ -1,7 +1,7 @@
 ---
 title: "Dr. Abraham Nash"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/abrahamnash.jpeg"
+image: "images/team/"
 jobtitle: "PhD Student in Computer Science"
 linkedinurl: ""  # Add LinkedIn URL if available
 promoted: true
