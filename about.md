@@ -5,8 +5,6 @@ description: Learn more about the Decentralized Intelligence Network (DIN) and o
 intro_image_hide_on_mobile: true
 ---
 
-# About Decentralized Intelligence Network (DIN)
-
 ## Our Vision
 At Decentralized Intelligence Network (DIN), we're pioneering a new era of AI development—one that's open, decentralized, and respects individual data sovereignty. We envision a world where artificial intelligence evolves through the collective power of global participants, all while maintaining the highest standards of privacy and data control.
 
