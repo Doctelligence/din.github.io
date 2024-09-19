@@ -1,7 +1,7 @@
 [
   {
-    "title": "Sovereign DID",
-    "description": "",
+    "title": "Data Sovereignty",
+    "description": "Maintain complete control over your data with personal data stores. Your information never leaves your secure environment while contributing to AI advancement.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Scalable FL",
-    "description": "",
+    "title": "Collaborative AI",
+    "description": "Participate in decentralized AI training without sharing raw data. Only model updates are shared, keeping your data within your personal data store.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Trustless Rewards",
-    "description": "",
+    "title": "Incentivized Participation",
+    "description": "Earn cryptographic rewards through a trustless mechanism on a public blockchain. Benefit financially from on-device AI training with fair, decentralized distribution.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
