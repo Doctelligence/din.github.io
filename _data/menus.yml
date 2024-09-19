@@ -8,8 +8,8 @@ main:
   - name: "Network"
     url: "/network/"
     weight: 3
-  - name: "Community"
-    url: "/community/"
+  - name: "Team"
+    url: "/team/"
     weight: 4
   - name: "About"
     url: "/about/"
