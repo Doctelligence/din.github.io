@@ -12,7 +12,7 @@ description: Roadmap
 
 ### 📄 Whitepaper and Technical Specification
 - 📖 Publish comprehensive whitepaper detailing DIN's architecture
-- 📝 Develop technical specifications for integrating existing personal data stores, federated learning protocol testbed, and reward mechanism
+- 📝 Develop technical specifications for integrating existing personal data stores (PDS), federated learning protocol testbed, and reward mechanism
 
 ### 🧪 Prototype Development
 - 🔬 Establish a small-scale testbed to validate the DIN protocol with integrated PDS technology.
