@@ -6,4 +6,4 @@ description: Contact
 
 **Location:**  
 
-# Coming Soon
+# Toronto & England, UK.
