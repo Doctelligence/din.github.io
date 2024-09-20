@@ -11,7 +11,7 @@ At Doctelligence, we're pioneering a new era of AI development—one that's open
 
 ## Our Mission
 
-DIN's mission is to create a decentralized ecosystem that transforms how AI is trained and developed. We're building a network that enables:
+Doctelligence's mission is to create a decentralized ecosystem that transforms how AI is trained and developed. We're building a network that enables:
 
 - **Effective AI training on individual devices within sovereign data networks**
 - **Fair, trustless, and transparent rewards for data contributors**
@@ -43,7 +43,7 @@ Doctelligence stands apart through our commitment to:
 
 ## Join Us
 
-Whether you're a data scientist, a blockchain enthusiast, or simply someone who believes in the power of decentralized technologies, there's a place for you in the DIN ecosystem. Join us in shaping the future of AI—a future that's open, fair, and respectful of individual rights, all from the privacy of your own device.
+Whether you're a data scientist, a blockchain enthusiast, or simply someone who believes in the power of decentralized technologies, there's a place for you in the Doctelligence ecosystem. Join us in shaping the future of AI—a future that's open, fair, and respectful of individual rights, all from the privacy of your own device.
 
 Together, we're not just developing AI; we're developing a better way to develop AI through decentralization and on-device processing, unrestricted by geographical boundaries.
 
