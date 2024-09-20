@@ -15,7 +15,7 @@ description: Roadmap
 - 📝 Develop technical specifications for integrating existing personal data stores, federated learning protocol testbed, and reward mechanism
 
 ### 🧪 Prototype Development
-- 🤝 Establish partnerships with existing personal data store providers
+- 🔬 Establish a small-scale testbed to validate the DIN protocol with integrated PDS technology.
 - 🔗 Implement basic federated learning protocol testbed on a blockchain testnet
 - 💰 Develop initial version of the reward mechanism
 
