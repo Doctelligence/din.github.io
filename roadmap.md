@@ -116,6 +116,6 @@ description: Roadmap
 - 📱 Foster development of DApps leveraging DIN for various industries
 - 🌍 Support projects addressing global challenges using decentralized AI
 
-### 👥 Community Empowerment
-- 🏛️ Transition to full community governance
+### 👥 Community Engagement
+- 🏛️ Transition to full community governance (non-coin based)
 - 💡 Establish grants and incubation programs for ecosystem projects
