@@ -47,4 +47,4 @@ Whether you're a data scientist, a blockchain enthusiast, or simply someone who 
 
 Together, we're not just developing AI; we're developing a better way to develop AI through decentralization and on-device processing, unrestricted by geographical boundaries.
 
-Interested in learning more or getting involved? [Contact us]([#](https://doctelligence.github.io/contact/)) or check out our latest updates.
+Interested in learning more or getting involved? [Contact us]([(https://doctelligence.github.io/contact/]) or check out our latest updates.
